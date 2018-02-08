@@ -6,7 +6,7 @@
 This repository will provide methods for calculating the area and parimeter of certain shapes, but the main use
 is to provide an example of how to setup and use the following tools:
 
- - [GitHub](github.com) - Version Control
+ - [GitHub](https://github.com) - Version Control
  - [Travis CI](https://travis-ci.org) - Continous Integration
  - [pytest](https://docs.pytest.org/en/latest/) - Unit and Regression Testing
  - [CodeCov](https://codecov.io) - Testing Coverage Analysis
@@ -53,7 +53,7 @@ From this point forward, these instructions assume you have a working `setup.py`
 Test scripts should be stored in their own repository; for more details about good practices for writing tests see [tests/README.md](tests/README.md).
 
 * Add integration for this repository
-    - Go to [travisci.org](travis-ci.org) and make an account if you don't already have one.
+    - Go to [travisci.org](https://travis-ci.org) and make an account if you don't already have one.
     - click on [your name] > profile
     - toggle the switch next to the repository you want tests for
 
@@ -68,7 +68,7 @@ Test scripts should be stored in their own repository; for more details about go
         ```
 
 * Add a badge to your README
-    - back on [travisci.org](travis-ci.org) click on your project, you should see your tests passing (or failing)
+    - back on [travisci.org](https://travis-ci.org) click on your project, you should see your tests passing (or failing)
     - click on the "badge" **[build|passing]** chose Markdown and copy the text
     - back on your terminal, add this line to your README.md file under the title (or wherever you want it). Then push these changes to your remote repository.
 
