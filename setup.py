@@ -8,7 +8,7 @@ import setuptools
 if __name__ == "__main__":
     setuptools.setup(
         name='shapes',        # Make sure to change to match your library name
-        version="0.0.1",    # you should keep track of versions
+        version="0.1",    # you should keep track of versions
         description='',     # add a description
         author='',          # add your name to author category
         author_email='',    # add your e-mail

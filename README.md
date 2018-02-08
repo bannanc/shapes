@@ -112,7 +112,7 @@ However, this would provide a good starting point to work from.
 > Separate source and build directories (y/n) [n]: y
 > Project name: Shapes
 > Author name(s): Caitlin C. Bannan
-> Project version []: 0.0.1
+> Project version []: 0.1
 > autodoc: automatically insert docstrings from modules (y/n) [n]: y
 > mathjax: include math, rendered in the browser by MathJax (y/n) [n]: y
 > viewcode: include links to the source code of documented Python objects (y/n) [n]: y
