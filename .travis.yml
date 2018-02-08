@@ -47,7 +47,6 @@ before_script:
 script:
   # Make sure the --cov variable is the name of the current package
   - py.test -v -s --cov
-  #- py.test -v -s --cov=shape/ --durations=5
 
 notifications:
   email: false

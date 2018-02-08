@@ -14,11 +14,13 @@ def area_square(length):
 
     Parameters
     ----------
-    length (float or int) length of one side of a square
+    length: float like
+        length of one side of a square
 
     Returns
     -------
-    area (float) - area of the square
+    area: float
+        area of the square
     """
     return length ** 2
 
