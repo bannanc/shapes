@@ -10,7 +10,19 @@ Author: Caitlin C. Bannan U.C. Irvine Mobley Group
 
 def perimeter_square(length):
     """
-    add documentation
+    .. math::
+
+        perimeter = 4 * length
+
+    Parameters
+    ----------
+    length: float
+        length of one side of a square
+
+    Returns
+    -------
+    perimeter: float
+        perimeter of the square
     """
     return length * 4
 

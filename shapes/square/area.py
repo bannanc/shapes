@@ -12,6 +12,10 @@ def area_square(length):
     """
     Calculates the area of a square.
 
+    .. math::
+
+        area = length^2
+
     Parameters
     ----------
     length: float like
