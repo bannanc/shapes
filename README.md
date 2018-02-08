@@ -136,7 +136,7 @@ Update the toctree Content section to include all other `rst` files such as intr
 
 ##### [`intro.rst`](docs/source/intro.rst) and [`functions.rst`](docs/source/functions.rst)
 
-These files should correspond to the names in the toctree `Contents` in [`index.rst`](docs/source/index.rst)
+These files are not autocreated, but they should correspond to the names in the toctree `Contents` in index.rst
 
 Titles in `rst` files should be followed by a row of `=====` and subtitles are followed by `---------`
 
