@@ -76,7 +76,7 @@ Test scripts should be stored in their own repository; for more details about go
 
 Make sure in your `script` section of `travis.yml` make sure you include the `--cov` option.
 
-* Make a codecov account at [codecov.org](codecov.org)
+* Make a codecov account at [codecov.io](https://codecov.io)
 
 * Add your repository:
     - go to your profile (click on your name)
@@ -92,11 +92,11 @@ Make sure in your `script` section of `travis.yml` make sure you include the `--
 
 For full disclosure, this is just an overview, making documentation look exactly as you like is a bit complicated, but this will help you get started.
 
-To add documentation integration to your directory make an account on [readthedocs.org](readthedocs.org).
+To add documentation integration to your directory make an account on [readthedocs.org](https://readthedocs.org).
 
 For more help, checkout Read the Docs website for
-* [getting started](https://docs.readthedocs.io/en/latest/) and
-* [Documentation](https://docs.readthedocs.io/en/latest/)
+[getting started](https://docs.readthedocs.io/en/latest/) and
+[Documentation](https://docs.readthedocs.io/en/latest/)
 
 ### Make Sphinx files in your terminal
 
@@ -186,7 +186,7 @@ From the `docs/` directory call `make html` you can see what your documentation 
 
 * Add your files in `docs/source` to GitHub
 * Build your documentation
-    - go back to [ReadTheDocs.org](readthedocs.org)
+    - go back to [ReadTheDocs.org](https://readthedocs.org)
     - click on **Import a Project**
     - click on the **+** next to this repository name
     - fill in the information
