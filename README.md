@@ -72,6 +72,23 @@ Test scripts should be stored in their own repository; for more details about go
     - click on the "badge" **[build|passing]** chose Markdown and copy the text
     - back on your terminal, add this line to your README.md file under the title (or wherever you want it). Then push these changes to your remote repository.
 
+#### Run tests regularly
+
+Another benefit of travis is you can set it up to run tests at regular intervals.
+One reason you would want to do this is to check that none of the packages you depend on have updated in a way that break your code.
+These daily (or weekly or monthly) builds would tell you that your tests are failing regardless of a new change, which could be very reassuring.
+These are called "`Cron Jobs`"
+
+* Go to your project on [travisci.org](https://travis-ci.org)
+* Click on the `[More options]` button then select `Settings`
+* In the Cron Jobs section:
+    - Branch: choose master or whatever branch you want to run these tests on
+    - Interval: choose how frequently you want to automatically run these tests (daily, weekly, or monthly)
+    - Options: you can set the automatic tests to only run when it has been more than 24 hours since the last build
+* Click the `[Add]` button
+
+You can setup Cron Jobs for as many branches as you want
+
 ## Add Code Coverage Tests
 
 Make sure in your `script` section of `travis.yml` make sure you include the `--cov` option.
