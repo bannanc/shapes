@@ -1,0 +1,10 @@
+name: chemper
+channels:
+    - openeye
+dependencies:
+    - python==3.5
+    - openeye-toolkits
+    - numpydoc
+    - pip
+    - pip:
+        - nbsphinx
