@@ -1,7 +1,7 @@
 Functions
 =========
 
-Functions are separated by shape and calculation
+Functions are separated by shape and calculation. To see an example of them in action checkout :ref:`examples`.
 
 Square
 ------
