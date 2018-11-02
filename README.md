@@ -1,7 +1,5 @@
 # Shapes - an example repository
-[![Build Status](https://travis-ci.org/bannanc/shapes.svg?branch=master)](https://travis-ci.org/bannanc/shapes)
-[![codecov](https://codecov.io/gh/bannanc/shapes/branch/master/graph/badge.svg)](https://codecov.io/gh/bannanc/shapes)
-[![Documentation Status](https://readthedocs.org/projects/shapes/badge/?version=latest)](http://shapes.readthedocs.io/en/latest/?badge=latest)
+[![Build Status](https://travis-ci.org/bannanc/shapes.svg?branch=master)](https://travis-ci.org/bannanc/shapes) [![codecov](https://codecov.io/gh/bannanc/shapes/branch/master/graph/badge.svg)](https://codecov.io/gh/bannanc/shapes) [![Documentation Status](https://readthedocs.org/projects/shapes/badge/?version=latest)](http://shapes.readthedocs.io/en/latest/?badge=latest) [![Total alerts](https://img.shields.io/lgtm/alerts/g/bannanc/shapes.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/bannanc/shapes/alerts/)
 
 This repository will provide methods for calculating the area and parimeter of certain shapes, but the main use
 is to provide an example of how to setup and use the following tools:
